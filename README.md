@@ -14,7 +14,10 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7iYM9ZkdttDvy8CDKoMCBI?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>)](https://open.spotify.com/user/fznd4j2qyh3i9irdywfm51j0n)
+### Spotify Playing 🎧
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=fznd4j2qyh3i9irdywfm51j0n&cover_image=true&theme=default)](https://open.spotify.com/user/fznd4j2qyh3i9irdywfm51j0n)
+
 
 ---
 
