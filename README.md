@@ -1,1 +1,10 @@
+- 👋 Hi, I’m @daan010q
+- 👀 I’m interested in Laravel
+- 🌱 I’m currently learning Laravel
+- 💞️ I’m looking to collaborate on nothing
 
+  # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=daan0101&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
